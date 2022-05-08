@@ -21,3 +21,8 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 I've started code and ended up having more difficutlies and tried my best. I will be taking the time to review and resubmit when I can.
+
+
+
+https://user-images.githubusercontent.com/97582292/167314965-5676f11c-ee81-443a-b24f-64b97247d03f.mp4
+
